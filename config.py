@@ -5,7 +5,7 @@ config.py - Central configuration for Indian Stock Advisor
 # ─────────────────────────────────────────────
 # API Keys
 # ─────────────────────────────────────────────
-ANTHROPIC_API_KEY = "YOUR_ANTHROPIC_API_KEY"   # Replace with your key
+ANTHROPIC_API_KEY = ""   # Replace with your key
 CLAUDE_MODEL      = "claude-sonnet-4-20250514"
 
 # ─────────────────────────────────────────────
