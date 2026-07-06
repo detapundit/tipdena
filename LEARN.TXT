@@ -50,7 +50,7 @@ STEP 1: THE FUNDAMENTAL FILTER (Is the business a compounding engine?)
 [ ] ROCE                              -->  Must be > 15% (Shows high efficiency)
 [ ] Debt-to-Equity                    -->  Must be < 0.5 (Ideal: Near Zero Debt)
 [ ] Sales & Operating Margins (OPM)   -->  Must be Steadily Rising or Stable
-[ ] Free Cash Flow (FCF)              -->  Must be ≥ Net Profit (Over 5-10 yrs)
+[ ] Free Cash Flow (FCF)              -->  Must be ≥ Net Profit (Over 5-10 yrs) #Never apply traditional Free Cash Flow (FCF) rules to the BFSI (Banking, Financial Services, and Insurance) sector
 [ ] PEG Ratio                         -->  Must be < 1.0 (Value) or 1.0-1.5 (Fair)
 [ ] Promoter Shareholding             -->  Must be > 50% (High skin in the game)
 [ ] Pledged Shares                    -->  Must be Absolute 0% (No loan distress)
