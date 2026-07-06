@@ -39,3 +39,39 @@
          "Check the Fundamentals before you buy the asset. 
           Check the Technicals to find the entry zone."
 ===================================================================
+
+
+================================================================================
+                    🌟 THE MASTER INVESTOR'S EXECUTION ROADMAP 🌟
+================================================================================
+
+STEP 1: THE FUNDAMENTAL FILTER (Is the business a compounding engine?)
+--------------------------------------------------------------------------------
+[ ] ROCE                              -->  Must be > 15% (Shows high efficiency)
+[ ] Debt-to-Equity                    -->  Must be < 0.5 (Ideal: Near Zero Debt)
+[ ] Sales & Operating Margins (OPM)   -->  Must be Steadily Rising or Stable
+[ ] Free Cash Flow (FCF)              -->  Must be ≥ Net Profit (Over 5-10 yrs)
+[ ] PEG Ratio                         -->  Must be < 1.0 (Value) or 1.0-1.5 (Fair)
+[ ] Promoter Shareholding             -->  Must be > 50% (High skin in the game)
+[ ] Pledged Shares                    -->  Must be Absolute 0% (No loan distress)
+
+STEP 2: THE TECHNICAL ENTRY (Are you buying at a wholesale discount floor?)
+--------------------------------------------------------------------------------
+[ ] Horizontal Support Floor         -->  Price is sitting at a historical floor.
+[ ] Dynamic 200 DMA Floor             -->  Price is touching the 10-month average.
+[ ] Institutional Volume Footprint    -->  A tall green volume bar confirms a bounce.
+[ ] THE CONFLUENCE ZONE               -->  All 3 of the above line up perfectly!
+                  - OR -
+[ ] The Breakout & Retest             -->  Price smashes a ceiling on massive volume, 
+                                           and you buy when it retests as a new floor.
+
+STEP 3: THE DEFENSIVE SHIELD (Is your capital 100% protected?)
+--------------------------------------------------------------------------------
+[ ] Portfolio Concentration           -->  Maintain a healthy basket of 15-20 stocks.
+[ ] Individual Core Caps              -->  Max 5% to 8% allocation per safe leader.
+[ ] Individual Satellite Caps         -->  Max 2% to 3% allocation per volatile small-cap.
+[ ] Asset Rebalancing                 -->  Gently trim if a single stock crosses 25%.
+
+================================================================================
+             "Rule #1: Never lose money. Rule #2: Never forget Rule #1."
+================================================================================
