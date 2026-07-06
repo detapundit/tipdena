@@ -1,3 +1,10 @@
+FOR FINANCIAL SECTOR
+Gross NPA (Non-Performing Assets): This tells you what percentage of their loans have gone bad (people who haven't paid their EMIs for over 90 days). For a stellar HFC, Gross NPA should ideally be under 1.5% to 2%.
+
+Net Interest Margin (NIM): This is the pure profit margin of a bank. It is the interest they earn from borrowers minus the interest they pay to fund those loans. Look for a stable or rising NIM (typically between 3% and 5% for retail lenders).
+
+Capital Adequacy Ratio (CAR): This is the mandatory statutory cushion required by the RBI. It ensures the HFC has enough of its own capital to survive an economic storm. RBI expects it above 15%, but elite HFCs usually maintain a very safe cushion of 18% to 22%+.
+
 ===================================================================
                 🎯 THE MULTIBAGGER CHEAT SHEET 🎯
 ===================================================================
